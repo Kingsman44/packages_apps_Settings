@@ -437,4 +437,8 @@ Notifications may be delayed for these apps."</string>
     <!-- Audio Panel position  -->
     <string name="audio_panel_position_title">Location</string>
     <string name="audio_panel_position_summary">Move volume panel from right to left side</string>
+
+    <!-- Screen off fod -->
+    <string name="fod_gesture_title">Screen off fingerprint</string>
+    <string name="fod_gesture_summary">Allows unlocking the device without having to wake up the screen first</string>
 </resources>

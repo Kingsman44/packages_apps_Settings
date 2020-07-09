@@ -194,7 +194,7 @@
             android:key="audio_panel_view_position"
             android:title="@string/audio_panel_position_title"
             android:summary="@string/audio_panel_position_summary"
-            android:defaultValue="@*android:bool/config_audioPanelOnLeftSide" />
+            android:defaultValue="@bool/config_audioPanelOnLeftSide" />
 
         <com.evolution.settings.preference.SystemSettingSwitchPreference
             android:key="audio_panel_view_media"
