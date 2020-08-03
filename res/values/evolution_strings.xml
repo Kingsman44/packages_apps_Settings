@@ -433,4 +433,8 @@ Notifications may be delayed for these apps."</string>
 
     <!-- Clipboard toast toggle -->
     <string name="show_clipboard_toast">Show clipboard access toast</string>
+
+    <!-- Audio Panel position  -->
+    <string name="audio_panel_position_title">Location</string>
+    <string name="audio_panel_position_summary">Move volume panel from right to left side</string>
 </resources>
